@@ -12,4 +12,3 @@ def snake_it_up(string)
 
 end
 
-puts snake_it_up("soup")
